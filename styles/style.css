@@ -69,6 +69,14 @@ body {
     font-family: var(--font-secundaria);
 }
 
+.apresentacao__conteudo___texto {
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: var(--font-secundaria);
+}
+
+
+
 .destaque-html {
     color: #ffa500;
 }
